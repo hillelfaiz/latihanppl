@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Halo, ini progress 1");
+﻿Console.WriteLine("Halo, ini progress 2");
